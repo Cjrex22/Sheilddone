@@ -1,0 +1,40 @@
+# Build artifacts
+sheild-backend/target/
+sheild-frontend/dist/
+sheild-frontend/node_modules/
+sheild-frontend/dist-ssr/
+build/
+bin/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Sensitive Information
+sheild-backend/src/main/resources/serviceAccountKey.json
+sheild-frontend/.env.local
+sheild-frontend/*.local
+.env
+.env.*.local
+
+# IDE Files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary files
+sheild-frontend/users.json
+tmp/
+temp/
