@@ -1,7 +1,5 @@
 # SHIELD - Women's Personal Safety PWA
 
-![SHIELD Banner](https://raw.githubusercontent.com/your-username/Sheilddone/main/sheild-frontend/public/shield-logo.png)
-
 SHIELD is a modern, cross-platform Progressive Web Application (PWA) designed to provide discreet, instantaneous, and highly reliable personal safety mechanisms. It combines a robust Java Spring Boot backend with a responsive React frontend, leveraging Firebase for real-time alerts and secure authentication.
 
 ## 🚀 Key Features
@@ -56,13 +54,3 @@ SHIELD is a modern, cross-platform Progressive Web Application (PWA) designed to
     ```bash
     npm run dev
     ```
-
-## 📄 Documentation
-For detailed information on the system architecture, requirements, and implementation details, refer to the [SHIELD_SRS_Document.md](./SHIELD_SRS_Document.md).
-
-## 👨‍💻 Contributors
-- **Churchil Jain** (S25CSEU1230)
-- **Dileep Chaudhary** (S25CSEU12231)
-
----
-*Created as part of the B.Tech CSE 1st Year Project at Bennett University.*
